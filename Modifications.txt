@@ -1,0 +1,17 @@
+
+-------------------------------------------------
+Version 1.6
+--
+
+- La règle Fiddler n'est plus à copier/coller; c'est dorénavant un fichier ".farx" qui doit être importé.
+- Le document est maintenant au format Pdf.
+- Amélioration de la méthode pour vider le cache.
+- Changement dans les préconisations d'utilisation de Fiddler en temps normal.
+
+-------------------------------------------------
+Version 1.5
+--
+
+- Première release publique.
+
+-------------------------------------------------
