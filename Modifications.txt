@@ -1,5 +1,14 @@
 
 -------------------------------------------------
+Version 1.8
+--
+
+- Maintenant, les règles sont contenues dans un fichier ".zip" et plus un fichier "farx".
+- Ajout de précisions sur le téléchargement du fichier des règles ".zip".
+- Correction d'un problème dans la procédure qui empêchait l'import de la règle dans "Fiddler".
+- Pour les utilisateurs de la version précédente: Pas de re-installation nécessaire.
+
+-------------------------------------------------
 Version 1.7
 --
 
